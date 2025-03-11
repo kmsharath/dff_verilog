@@ -17,7 +17,7 @@ module dff_tb;
         #10 d = 0;
         #10 d = 1;
         #10 rst = 1;
-        #10 $finish;
+        #7 $finish;
     end
 
     initial begin
